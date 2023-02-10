@@ -26,7 +26,7 @@ const Header = (props: Props) => {
 			>
 				{/* SocialsIcons    */}
 				<SocialIcon
-					url="https://www.youtube.com"
+					url="https://www.github.com"
 					fgColor="gray"
 					bgColor="transparent"
 				/>
